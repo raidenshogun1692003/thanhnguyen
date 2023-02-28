@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using Fullstack knowleage to make websites. 🕺🏽
+I'm using Fullstack knowleage to make websites dynamic. 🕺🏽
 
 **I love working with**
 
@@ -41,4 +41,6 @@ I'm using Fullstack knowleage to make websites. 🕺🏽
 </div>
 
 ### ⚡ Fun fact
+
+- I'm like to listening to music 👩‍🎤
 
