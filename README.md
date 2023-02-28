@@ -36,7 +36,7 @@ I'm using Fullstack knowleage to make websites dynamic. 🕺🏽
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/isekai2003">
-    <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook"/>
   </a>
 </div>
 
